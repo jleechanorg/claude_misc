@@ -1,0 +1,12 @@
+[wsl2]
+# Allocate 35GB out of 63GB total RAM
+memory=35GB
+processors=8
+swap=8GB
+
+# Enable debugging
+debugConsole=true
+
+# Performance optimizations
+guiApplications=true
+nestedVirtualization=true
